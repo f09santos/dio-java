@@ -1,6 +1,8 @@
-##  DESAFIO IPHONE ** DIAGRAMA UML
+## POO - Desafio
 
-```
+### Diagrama UML (Feito no [Mermaid](https://mermaid.js.org/))
+
+```mermaid
 classDiagram
     AparelhoTelefonico <|-- IPhone
     <<interface>> AparelhoTelefonico
@@ -31,4 +33,4 @@ classDiagram
     }
 ```
 
-Diagrama implementado em Java conforme o solicitado pelo o desafi da DIO.
+Diagrama implementado em Java conforme o solicitado pelo safio da DIO.
