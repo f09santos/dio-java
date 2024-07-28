@@ -1,6 +1,5 @@
-## POO - Desafio
+## Desafio Iphone - UML
 
-### Diagrama UML (Feito no [Mermaid](https://mermaid.js.org/))
 
 ```mermaid
 classDiagram
@@ -33,4 +32,4 @@ classDiagram
     }
 ```
 
-Diagrama implementado em Java conforme o solicitado pelo safio da DIO.
+Diagrama implementado em Java conforme o solicitado pelo desafio da DIO.
